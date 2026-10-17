@@ -66,4 +66,4 @@ spectrum can be viewed in the PRIDE archive. The quantification benchmark is
 
 The InstaNovo steps in Exercise 1 are adapted from the de novo practical of the
 [Paleoproteomics Summer School 2026](https://github.com/UadKLab/paleoproteomics_summer_school)
-(Yun Chiang, Jemma Daniel, Jeroen van Goey). Sample-preparation slides adapted from Erwin M. Schoof.
+(Yun Chiang, Jemma Daniel, Jeroen van Goey).
